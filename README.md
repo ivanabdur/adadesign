@@ -6,4 +6,5 @@ for icon system please reference to
 >[material.io/design/iconography/system-icons.html#grid-keyline-shapes](https://material.io/design/iconography/system-icons.html#grid-keyline-shapes)
 
 ## Contributors
-Ivan Abdurrahman
+- Ivan Abdurrahman
+- Roshani Ayu Pranasti
